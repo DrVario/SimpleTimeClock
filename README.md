@@ -1,14 +1,24 @@
 ## SimpleTimeClock
 
 ## Motivtion
-
+I want to make a time clock that is lightweight and can be configured in multiple ways while remaining compentent and free.
 ## Sreenshots
 ## Tech
+- Javascript
+- Node.js
+- React.js
+- C#
+- SQL
 ## Features
+- A working Clock-in Clock-out system
+- Admin Panels
+- Employee Database
+- A button to generate weekly or bi-weekly wages
 ## Installation
 ## How To Use
 ## Contribute
 ## Credits
+- Grant Porter (Developer)
 ## License
 Copyright 2020 Grant Porter
 
